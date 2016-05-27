@@ -1,0 +1,3466 @@
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Installing on emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Starting on emulator-5556
+Starting on emulator-5558
+Starting on emulator-5560
+Starting on emulator-5562
+Entering messages
+Waiting for 10 seconds to stabilize...
+Retrieving messages
+Querying (emulator-5554) 0
+Querying (emulator-5556) 0Querying (emulator-5558) 0
+
+ Querying (emulator-5560) 0
+Querying (emulator-5562) 0
+Querying (emulator-5560) 1
+Querying (emulator-5562) 1
+Querying (emulator-5554) 1
+Querying (emulator-5556) 1
+Querying (emulator-5558) 1
+Querying (emulator-5560) 2
+Querying (emulator-5562) 2
+Querying (emulator-5554) 2
+Querying (emulator-5556) 2
+Querying (emulator-5558) 2
+Querying (emulator-5560) 3
+Querying (emulator-5554) 3
+Querying (emulator-5556) 3
+Querying (emulator-5562) 3
+Querying (emulator-5558) 3
+Querying (emulator-5560) 4
+Querying (emulator-5554) 4
+Querying (emulator-5556) 4
+Querying (emulator-5562) 4
+Querying (emulator-5558) 4
+Querying (emulator-5560) 5
+Querying (emulator-5554) 5
+Querying (emulator-5562) 5
+Querying (emulator-5556) 5
+Querying (emulator-5560) 6
+Querying (emulator-5558) 5
+Querying (emulator-5554) 6
+Querying (emulator-5562) 6
+Querying (emulator-5556) 6
+Querying (emulator-5560) 7
+Querying (emulator-5558) 6
+Querying (emulator-5554) 7
+Querying (emulator-5562) 7
+Querying (emulator-5560) 8
+Querying (emulator-5556) 7
+Querying (emulator-5558) 7
+Querying (emulator-5554) 8
+Querying (emulator-5562) 8
+Querying (emulator-5560) 9
+Querying (emulator-5556) 8
+Querying (emulator-5554) 9
+Querying (emulator-5558) 8
+Querying (emulator-5562) 9
+Querying (emulator-5560) 10
+Querying (emulator-5556) 9
+Querying (emulator-5554) 10
+Querying (emulator-5558) 9
+Querying (emulator-5562) 10
+Querying (emulator-5560) 11
+Querying (emulator-5556) 10
+Querying (emulator-5554) 11
+Querying (emulator-5558) 10
+Querying (emulator-5562) 11
+Querying (emulator-5556) 11
+Querying (emulator-5560) 12
+Querying (emulator-5554) 12
+Querying (emulator-5558) 11
+Querying (emulator-5562) 12
+Querying (emulator-5556) 12
+Querying (emulator-5560) 13
+Querying (emulator-5554) 13
+Querying (emulator-5558) 12
+Querying (emulator-5562) 13
+Querying (emulator-5556) 13
+Querying (emulator-5560) 14
+Querying (emulator-5554) 14
+Querying (emulator-5558) 13
+Querying (emulator-5562) 14
+Querying (emulator-5556) 14
+Querying (emulator-5560) 15
+Querying (emulator-5554) 15
+Querying (emulator-5558) 14
+Querying (emulator-5562) 15
+Querying (emulator-5556) 15
+Querying (emulator-5560) 16
+Querying (emulator-5554) 16
+Querying (emulator-5558) 15
+Querying (emulator-5562) 16
+Querying (emulator-5556) 16
+Querying (emulator-5560) 17
+Querying (emulator-5554) 17
+Querying (emulator-5558) 16
+Querying (emulator-5562) 17
+Querying (emulator-5556) 17
+Querying (emulator-5560) 18
+Querying (emulator-5554) 18
+Querying (emulator-5562) 18
+Querying (emulator-5558) 17
+Querying (emulator-5556) 18
+Querying (emulator-5560) 19
+Querying (emulator-5554) 19
+Querying (emulator-5558) 18
+Querying (emulator-5562) 19
+Querying (emulator-5556) 19
+Querying (emulator-5560) 20
+Querying (emulator-5554) 20
+Querying (emulator-5562) 20
+Querying (emulator-5558) 19
+Querying (emulator-5556) 20
+ Querying (emulator-5560) 21
+Querying (emulator-5554) 21
+Querying (emulator-5562) 21
+Querying (emulator-5558) 20
+Querying (emulator-5560) 22
+Querying (emulator-5556) 21
+Querying (emulator-5554) 22
+Querying (emulator-5562) 22
+Querying (emulator-5558) 21
+Querying (emulator-5560) 23
+Querying (emulator-5556) 22
+Querying (emulator-5554) 23
+Querying (emulator-5562) 23
+Querying (emulator-5558) 22
+Querying (emulator-5560) 24
+Querying (emulator-5556) 23
+Querying (emulator-5554) 24
+Querying (emulator-5562) 24
+Querying (emulator-5558) 23
+Querying (emulator-5556) 24
+Querying (emulator-5558) 24
+Verifying total ordering (note: each "key" in the output below may not be the exact key if there was a failure. It is just the nth message that the grader is verifying.)
+Total ordering score: 2
+Verifying FIFO ordering
+FIFO ordering score: 2
+Ordering score: 4
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Installing on emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5556
+Starting on emulator-5558
+Starting on emulator-5562
+Starting on emulator-5560
+Starting on emulator-5554
+Entering messages
+Force-stopping on emulator-5556
+Waiting for 10 seconds to stabilize...
+Retrieving messages
+Querying (emulator-5556) 0
+Querying (emulator-5558) 0
+Querying (emulator-5562) 0Querying (emulator-5560) 0
+
+ Querying (emulator-5554) 0
+Querying (emulator-5554) 1
+Querying (emulator-5558) 1
+Querying (emulator-5560) 1
+Querying (emulator-5556) 1
+Querying (emulator-5562) 1
+Querying (emulator-5560) 2
+Querying (emulator-5554) 2
+Querying (emulator-5556) 2
+Querying (emulator-5558) 2
+Querying (emulator-5562) 2
+Querying (emulator-5554) 3
+Querying (emulator-5560) 3
+Querying (emulator-5556) 3
+Querying (emulator-5558) 3
+Querying (emulator-5562) 3
+Querying (emulator-5554) 4
+Querying (emulator-5560) 4
+Querying (emulator-5558) 4
+Querying (emulator-5556) 4
+Querying (emulator-5562) 4
+Querying (emulator-5554) 5
+Querying (emulator-5560) 5
+Querying (emulator-5558) 5
+Querying (emulator-5556) 5
+Querying (emulator-5562) 5
+Querying (emulator-5554) 6
+Querying (emulator-5560) 6
+Querying (emulator-5556) 6
+Querying (emulator-5562) 6
+Querying (emulator-5558) 6
+Querying (emulator-5554) 7
+Querying (emulator-5560) 7
+Querying (emulator-5556) 7
+Querying (emulator-5562) 7
+Querying (emulator-5558) 7
+Querying (emulator-5560) 8
+Querying (emulator-5554) 8
+Querying (emulator-5556) 8
+Querying (emulator-5562) 8
+Querying (emulator-5558) 8
+Querying (emulator-5560) 9
+Querying (emulator-5554) 9
+Querying (emulator-5556) 9
+Querying (emulator-5562) 9
+Querying (emulator-5558) 9
+Querying (emulator-5560) 10
+Querying (emulator-5554) 10
+Querying (emulator-5556) 10
+Querying (emulator-5562) 10
+Querying (emulator-5560) 11
+Querying (emulator-5558) 10
+Querying (emulator-5554) 11
+Querying (emulator-5556) 11
+Querying (emulator-5562) 11
+Querying (emulator-5560) 12
+Querying (emulator-5558) 11
+Querying (emulator-5554) 12
+Querying (emulator-5556) 12
+Querying (emulator-5562) 12
+Querying (emulator-5560) 13
+Querying (emulator-5554) 13
+Querying (emulator-5558) 12
+Querying (emulator-5556) 13
+Querying (emulator-5562) 13
+Querying (emulator-5560) 14
+Querying (emulator-5554) 14
+Querying (emulator-5558) 13
+Querying (emulator-5556) 14
+Querying (emulator-5562) 14
+Querying (emulator-5560) 15
+Querying (emulator-5554) 15
+Querying (emulator-5558) 14
+Querying (emulator-5556) 15
+Querying (emulator-5562) 15
+Querying (emulator-5560) 16
+Querying (emulator-5554) 16
+Querying (emulator-5558) 15
+Querying (emulator-5556) 16
+Querying (emulator-5562) 16
+Querying (emulator-5560) 17
+Querying (emulator-5554) 17
+Querying (emulator-5558) 16
+Querying (emulator-5556) 17
+Querying (emulator-5562) 17
+Querying (emulator-5560) 18
+Querying (emulator-5554) 18
+Querying (emulator-5558) 17
+Querying (emulator-5556) 18
+Querying (emulator-5562) 18
+Querying (emulator-5560) 19
+Querying (emulator-5554) 19
+Querying (emulator-5558) 18
+Querying (emulator-5556) 19
+Querying (emulator-5562) 19
+Querying (emulator-5560) 20
+Querying (emulator-5554) 20
+Querying (emulator-5558) 19
+Querying (emulator-5556) 20
+Querying (emulator-5560) 21
+Querying (emulator-5562) 20
+Querying (emulator-5554) 21
+Querying (emulator-5558) 20
+Querying (emulator-5556) 21
+Querying (emulator-5560) 22
+Querying (emulator-5562) 21
+Querying (emulator-5554) 22
+Querying (emulator-5558) 21
+Querying (emulator-5556) 22
+Querying (emulator-5560) 23
+Querying (emulator-5554) 23
+Querying (emulator-5562) 22
+Querying (emulator-5558) 22
+Querying (emulator-5556) 23
+Querying (emulator-5560) 24
+Querying (emulator-5554) 24
+Querying (emulator-5562) 23
+Querying (emulator-5556) 24
+Querying (emulator-5558) 23
+Querying (emulator-5562) 24
+Querying (emulator-5558) 24
+Verifying total ordering (note: each "key" in the output below may not be the exact key if there was a failure. It is just the nth message that the grader is verifying.)
+Missing a message sequence from emulator-5558, missing key: 10
+Ordering & failure handling score based on 1 run (the result can be incorrect if your implementation is centralized or has randomness in failure handling): 0
+Total score: 4
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Installing on emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Starting on emulator-5556
+Starting on emulator-5558
+Starting on emulator-5560
+Starting on emulator-5562
+Entering messages
+Waiting for 10 seconds to stabilize...
+Retrieving messages
+Querying (emulator-5554) 0
+ Querying (emulator-5556) 0
+Querying (emulator-5558) 0
+Querying (emulator-5560) 0
+Querying (emulator-5562) 0
+Querying (emulator-5556) 1
+Querying (emulator-5558) 1
+Querying (emulator-5554) 1
+Querying (emulator-5560) 1
+Querying (emulator-5562) 1
+Querying (emulator-5554) 2
+Querying (emulator-5560) 2
+Querying (emulator-5558) 2
+Querying (emulator-5556) 2
+Querying (emulator-5562) 2
+Querying (emulator-5554) 3
+Querying (emulator-5558) 3
+Querying (emulator-5556) 3
+Querying (emulator-5560) 3
+Querying (emulator-5562) 3
+Querying (emulator-5554) 4
+Querying (emulator-5560) 4
+Querying (emulator-5558) 4
+Querying (emulator-5556) 4
+Querying (emulator-5562) 4
+Querying (emulator-5554) 5
+Querying (emulator-5560) 5
+Querying (emulator-5556) 5
+Querying (emulator-5558) 5
+Querying (emulator-5562) 5
+Querying (emulator-5554) 6
+Querying (emulator-5560) 6
+Querying (emulator-5556) 6
+Querying (emulator-5558) 6
+Querying (emulator-5562) 6
+Querying (emulator-5554) 7
+Querying (emulator-5560) 7
+Querying (emulator-5556) 7
+Querying (emulator-5558) 7
+ Querying (emulator-5562) 7
+Querying (emulator-5554) 8
+Querying (emulator-5560) 8
+Querying (emulator-5556) 8
+Querying (emulator-5558) 8
+Querying (emulator-5562) 8
+Querying (emulator-5554) 9
+Querying (emulator-5556) 9
+Querying (emulator-5560) 9
+Querying (emulator-5562) 9
+Querying (emulator-5558) 9
+Querying (emulator-5554) 10
+Querying (emulator-5556) 10
+Querying (emulator-5560) 10
+Querying (emulator-5562) 10Querying (emulator-5558) 10
+
+Querying (emulator-5554) 11
+Querying (emulator-5556) 11
+Querying (emulator-5560) 11
+Querying (emulator-5558) 11
+Querying (emulator-5562) 11
+Querying (emulator-5554) 12
+Querying (emulator-5556) 12Querying (emulator-5560) 12
+
+Querying (emulator-5558) 12
+Querying (emulator-5562) 12
+Querying (emulator-5554) 13
+Querying (emulator-5560) 13Querying (emulator-5556) 13
+
+Querying (emulator-5562) 13
+Querying (emulator-5558) 13
+Querying (emulator-5554) 14
+Querying (emulator-5560) 14
+Querying (emulator-5556) 14
+Querying (emulator-5562) 14
+Querying (emulator-5558) 14
+Querying (emulator-5554) 15
+Querying (emulator-5560) 15
+Querying (emulator-5556) 15
+Querying (emulator-5558) 15
+Querying (emulator-5562) 15
+Querying (emulator-5554) 16
+Querying (emulator-5560) 16
+Querying (emulator-5556) 16
+Querying (emulator-5558) 16
+Querying (emulator-5562) 16
+Querying (emulator-5554) 17
+Querying (emulator-5560) 17
+Querying (emulator-5556) 17
+Querying (emulator-5562) 17
+Querying (emulator-5558) 17
+Querying (emulator-5554) 18
+Querying (emulator-5556) 18
+Querying (emulator-5560) 18
+Querying (emulator-5558) 18
+Querying (emulator-5562) 18
+Querying (emulator-5554) 19
+Querying (emulator-5556) 19
+Querying (emulator-5560) 19
+Querying (emulator-5558) 19
+Querying (emulator-5562) 19
+Querying (emulator-5554) 20
+Querying (emulator-5556) 20
+Querying (emulator-5560) 20
+Querying (emulator-5558) 20
+Querying (emulator-5562) 20
+Querying (emulator-5554) 21
+Querying (emulator-5556) 21
+Querying (emulator-5560) 21
+Querying (emulator-5558) 21
+Querying (emulator-5562) 21
+Querying (emulator-5554) 22
+Querying (emulator-5556) 22
+Querying (emulator-5560) 22
+Querying (emulator-5558) 22
+Querying (emulator-5554) 23
+Querying (emulator-5562) 22
+Querying (emulator-5556) 23
+Querying (emulator-5560) 23
+Querying (emulator-5558) 23
+Querying (emulator-5562) 23
+Querying (emulator-5554) 24
+Querying (emulator-5556) 24
+Querying (emulator-5560) 24
+Querying (emulator-5558) 24
+Querying (emulator-5562) 24
+Verifying total ordering (note: each "key" in the output below may not be the exact key if there was a failure. It is just the nth message that the grader is verifying.)
+Total ordering score: 2
+Verifying FIFO ordering
+FIFO ordering score: 2
+Ordering score: 4
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Installing on emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5556
+Starting on emulator-5558
+Starting on emulator-5554
+Starting on emulator-5560
+Starting on emulator-5562
+Entering messages
+Force-stopping on emulator-5556
+Waiting for 10 seconds to stabilize...
+Retrieving messages
+Querying (emulator-5556) 0
+ Querying (emulator-5558) 0Querying (emulator-5554) 0
+
+Querying (emulator-5560) 0
+Querying (emulator-5562) 0
+Querying (emulator-5554) 1
+Querying (emulator-5560) 1
+Querying (emulator-5558) 1
+Querying (emulator-5556) 1
+Querying (emulator-5562) 1
+Querying (emulator-5560) 2Querying (emulator-5554) 2
+
+Querying (emulator-5556) 2
+Querying (emulator-5558) 2
+Querying (emulator-5562) 2
+Querying (emulator-5560) 3
+ Querying (emulator-5554) 3
+Querying (emulator-5556) 3
+Querying (emulator-5558) 3
+Querying (emulator-5562) 3
+Querying (emulator-5560) 4
+Querying (emulator-5554) 4
+Querying (emulator-5556) 4
+Querying (emulator-5558) 4
+Querying (emulator-5562) 4
+Querying (emulator-5560) 5
+Querying (emulator-5554) 5
+Querying (emulator-5556) 5
+Querying (emulator-5558) 5
+Querying (emulator-5562) 5
+Querying (emulator-5554) 6
+Querying (emulator-5560) 6
+Querying (emulator-5556) 6
+Querying (emulator-5558) 6
+Querying (emulator-5562) 6
+Querying (emulator-5554) 7
+Querying (emulator-5560) 7
+Querying (emulator-5556) 7
+Querying (emulator-5562) 7
+Querying (emulator-5558) 7
+Querying (emulator-5554) 8
+Querying (emulator-5560) 8
+Querying (emulator-5556) 8
+Querying (emulator-5562) 8
+Querying (emulator-5558) 8
+Querying (emulator-5554) 9
+Querying (emulator-5560) 9
+Querying (emulator-5556) 9
+Querying (emulator-5562) 9
+Querying (emulator-5558) 9
+Querying (emulator-5554) 10
+Querying (emulator-5560) 10
+Querying (emulator-5556) 10
+Querying (emulator-5562) 10
+Querying (emulator-5554) 11
+Querying (emulator-5558) 10
+Querying (emulator-5560) 11
+Querying (emulator-5556) 11
+Querying (emulator-5562) 11
+Querying (emulator-5560) 12
+Querying (emulator-5554) 12
+Querying (emulator-5558) 11
+Querying (emulator-5556) 12
+Querying (emulator-5562) 12
+Querying (emulator-5560) 13
+Querying (emulator-5554) 13
+Querying (emulator-5558) 12
+Querying (emulator-5556) 13
+Querying (emulator-5562) 13
+Querying (emulator-5560) 14
+Querying (emulator-5554) 14
+Querying (emulator-5558) 13
+Querying (emulator-5556) 14
+Querying (emulator-5562) 14
+Querying (emulator-5560) 15
+Querying (emulator-5554) 15
+Querying (emulator-5556) 15
+Querying (emulator-5558) 14
+Querying (emulator-5562) 15
+Querying (emulator-5560) 16
+Querying (emulator-5554) 16
+Querying (emulator-5556) 16
+Querying (emulator-5558) 15
+Querying (emulator-5562) 16
+Querying (emulator-5560) 17
+Querying (emulator-5554) 17
+Querying (emulator-5556) 17
+Querying (emulator-5558) 16
+Querying (emulator-5562) 17
+Querying (emulator-5560) 18
+Querying (emulator-5554) 18
+Querying (emulator-5558) 17
+Querying (emulator-5556) 18
+Querying (emulator-5562) 18
+Querying (emulator-5560) 19
+Querying (emulator-5554) 19
+Querying (emulator-5558) 18
+Querying (emulator-5556) 19
+Querying (emulator-5562) 19
+Querying (emulator-5560) 20
+Querying (emulator-5554) 20
+Querying (emulator-5556) 20
+Querying (emulator-5558) 19
+Querying (emulator-5562) 20
+Querying (emulator-5554) 21
+Querying (emulator-5560) 21
+Querying (emulator-5556) 21
+Querying (emulator-5558) 20
+Querying (emulator-5554) 22
+Querying (emulator-5562) 21
+Querying (emulator-5560) 22
+Querying (emulator-5558) 21
+Querying (emulator-5556) 22
+Querying (emulator-5554) 23
+Querying (emulator-5562) 22
+Querying (emulator-5560) 23
+Querying (emulator-5556) 23
+Querying (emulator-5558) 22
+Querying (emulator-5554) 24
+Querying (emulator-5560) 24
+Querying (emulator-5562) 23
+Querying (emulator-5556) 24
+Querying (emulator-5558) 23
+Querying (emulator-5562) 24
+Querying (emulator-5558) 24
+Verifying total ordering (note: each "key" in the output below may not be the exact key if there was a failure. It is just the nth message that the grader is verifying.)
+Total ordering verified
+Verifying FIFO ordering
+FIFO ordering verified
+Ordering & failure handling score based on 1 run (the result can be incorrect if your implementation is centralized or has randomness in failure handling): 6
+Total score: 10
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Installing on emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Starting on emulator-5556
+Starting on emulator-5558
+Starting on emulator-5560
+Starting on emulator-5562
+Entering messages
+Waiting for 10 seconds to stabilize...
+Retrieving messages
+Querying (emulator-5554) 0
+Querying (emulator-5556) 0
+ Querying (emulator-5558) 0
+Querying (emulator-5560) 0
+Querying (emulator-5562) 0
+Querying (emulator-5554) 1
+Querying (emulator-5562) 1
+Querying (emulator-5558) 1
+Querying (emulator-5560) 1
+Querying (emulator-5556) 1
+Querying (emulator-5554) 2
+Querying (emulator-5562) 2
+Querying (emulator-5558) 2
+Querying (emulator-5556) 2
+Querying (emulator-5560) 2
+Querying (emulator-5554) 3
+Querying (emulator-5562) 3
+Querying (emulator-5558) 3
+Querying (emulator-5556) 3
+Querying (emulator-5560) 3
+Querying (emulator-5554) 4
+Querying (emulator-5562) 4
+Querying (emulator-5558) 4
+Querying (emulator-5556) 4
+Querying (emulator-5560) 4
+Querying (emulator-5554) 5
+Querying (emulator-5562) 5
+Querying (emulator-5558) 5
+Querying (emulator-5556) 5
+Querying (emulator-5560) 5
+Querying (emulator-5554) 6
+Querying (emulator-5562) 6
+Querying (emulator-5558) 6
+Querying (emulator-5556) 6
+Querying (emulator-5560) 6
+Querying (emulator-5554) 7
+Querying (emulator-5562) 7
+Querying (emulator-5558) 7
+Querying (emulator-5556) 7
+Querying (emulator-5560) 7
+Querying (emulator-5562) 8Querying (emulator-5554) 8
+
+Querying (emulator-5558) 8
+Querying (emulator-5556) 8
+Querying (emulator-5560) 8
+Querying (emulator-5562) 9
+Querying (emulator-5554) 9
+Querying (emulator-5558) 9
+Querying (emulator-5556) 9
+Querying (emulator-5560) 9
+Querying (emulator-5554) 10
+Querying (emulator-5562) 10
+Querying (emulator-5558) 10
+Querying (emulator-5560) 10
+Querying (emulator-5556) 10
+Querying (emulator-5554) 11
+Querying (emulator-5562) 11
+Querying (emulator-5558) 11
+Querying (emulator-5560) 11
+Querying (emulator-5556) 11
+Querying (emulator-5554) 12
+Querying (emulator-5562) 12
+Querying (emulator-5558) 12
+Querying (emulator-5560) 12
+Querying (emulator-5556) 12
+Querying (emulator-5562) 13
+Querying (emulator-5554) 13
+Querying (emulator-5558) 13
+Querying (emulator-5560) 13
+Querying (emulator-5556) 13
+Querying (emulator-5562) 14
+Querying (emulator-5554) 14
+Querying (emulator-5558) 14
+Querying (emulator-5560) 14
+Querying (emulator-5556) 14
+Querying (emulator-5562) 15
+Querying (emulator-5554) 15
+Querying (emulator-5560) 15
+Querying (emulator-5558) 15
+Querying (emulator-5562) 16
+Querying (emulator-5554) 16
+Querying (emulator-5556) 15
+Querying (emulator-5560) 16
+Querying (emulator-5558) 16
+Querying (emulator-5562) 17
+Querying (emulator-5554) 17
+Querying (emulator-5556) 16
+Querying (emulator-5560) 17
+Querying (emulator-5558) 17
+Querying (emulator-5562) 18
+Querying (emulator-5554) 18
+Querying (emulator-5556) 17
+Querying (emulator-5560) 18
+Querying (emulator-5558) 18
+Querying (emulator-5562) 19
+Querying (emulator-5554) 19
+Querying (emulator-5556) 18
+Querying (emulator-5560) 19
+Querying (emulator-5558) 19
+Querying (emulator-5562) 20
+Querying (emulator-5554) 20
+Querying (emulator-5556) 19
+Querying (emulator-5560) 20
+Querying (emulator-5558) 20
+Querying (emulator-5562) 21
+Querying (emulator-5554) 21
+Querying (emulator-5556) 20
+Querying (emulator-5560) 21
+Querying (emulator-5558) 21
+Querying (emulator-5562) 22
+Querying (emulator-5554) 22
+Querying (emulator-5560) 22
+Querying (emulator-5556) 21
+Querying (emulator-5558) 22
+Querying (emulator-5562) 23
+Querying (emulator-5554) 23
+Querying (emulator-5558) 23Querying (emulator-5560) 23
+
+Querying (emulator-5556) 22
+Querying (emulator-5562) 24
+Querying (emulator-5554) 24
+Querying (emulator-5556) 23
+Querying (emulator-5558) 24
+Querying (emulator-5560) 24
+Querying (emulator-5556) 24
+Verifying total ordering (note: each "key" in the output below may not be the exact key if there was a failure. It is just the nth message that the grader is verifying.)
+Total ordering score: 2
+Verifying FIFO ordering
+FIFO ordering score: 2
+Ordering score: 4
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Installing on emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5560
+Starting on emulator-5558
+Starting on emulator-5562
+Starting on emulator-5556
+Starting on emulator-5554
+Entering messages
+Force-stopping on emulator-5560
+Waiting for 10 seconds to stabilize...
+Retrieving messages
+Querying (emulator-5560) 0
+Querying (emulator-5558) 0
+Querying (emulator-5562) 0
+ Querying (emulator-5556) 0Querying (emulator-5554) 0
+
+Querying (emulator-5558) 1Querying (emulator-5562) 1
+ Querying (emulator-5554) 1
+
+Querying (emulator-5560) 1
+Querying (emulator-5556) 1
+Querying (emulator-5560) 2
+Querying (emulator-5562) 2
+Querying (emulator-5558) 2
+Querying (emulator-5554) 2
+Querying (emulator-5556) 2
+Querying (emulator-5560) 3
+Querying (emulator-5562) 3
+Querying (emulator-5558) 3
+Querying (emulator-5554) 3
+Querying (emulator-5556) 3
+Querying (emulator-5560) 4
+Querying (emulator-5562) 4
+Querying (emulator-5554) 4
+Querying (emulator-5558) 4
+Querying (emulator-5556) 4
+Querying (emulator-5560) 5
+Querying (emulator-5562) 5
+Querying (emulator-5554) 5
+Querying (emulator-5558) 5
+Querying (emulator-5560) 6
+Querying (emulator-5556) 5
+Querying (emulator-5562) 6
+Querying (emulator-5554) 6
+Querying (emulator-5558) 6
+Querying (emulator-5560) 7
+Querying (emulator-5556) 6
+Querying (emulator-5562) 7
+Querying (emulator-5554) 7
+Querying (emulator-5558) 7
+Querying (emulator-5560) 8
+Querying (emulator-5556) 7
+Querying (emulator-5562) 8
+Querying (emulator-5554) 8
+Querying (emulator-5558) 8
+Querying (emulator-5560) 9
+Querying (emulator-5556) 8
+Querying (emulator-5562) 9
+Querying (emulator-5554) 9
+Querying (emulator-5558) 9
+Querying (emulator-5560) 10
+Querying (emulator-5556) 9
+Querying (emulator-5562) 10
+Querying (emulator-5554) 10
+Querying (emulator-5558) 10
+Querying (emulator-5560) 11
+Querying (emulator-5556) 10
+Querying (emulator-5562) 11
+Querying (emulator-5554) 11
+Querying (emulator-5558) 11
+Querying (emulator-5560) 12
+Querying (emulator-5556) 11
+Querying (emulator-5562) 12
+Querying (emulator-5554) 12
+Querying (emulator-5558) 12
+Querying (emulator-5560) 13
+Querying (emulator-5556) 12
+Querying (emulator-5562) 13
+Querying (emulator-5554) 13
+Querying (emulator-5558) 13
+Querying (emulator-5560) 14
+Querying (emulator-5556) 13
+Querying (emulator-5562) 14
+Querying (emulator-5554) 14
+Querying (emulator-5558) 14
+Querying (emulator-5560) 15
+Querying (emulator-5556) 14
+Querying (emulator-5562) 15
+Querying (emulator-5554) 15
+Querying (emulator-5558) 15
+Querying (emulator-5560) 16
+Querying (emulator-5562) 16
+Querying (emulator-5556) 15
+Querying (emulator-5554) 16
+Querying (emulator-5558) 16
+Querying (emulator-5560) 17
+Querying (emulator-5562) 17
+Querying (emulator-5556) 16
+Querying (emulator-5558) 17
+Querying (emulator-5554) 17
+Querying (emulator-5560) 18
+Querying (emulator-5562) 18
+Querying (emulator-5556) 17
+Querying (emulator-5558) 18
+Querying (emulator-5554) 18
+Querying (emulator-5560) 19
+Querying (emulator-5562) 19
+Querying (emulator-5556) 18
+Querying (emulator-5558) 19
+Querying (emulator-5554) 19
+Querying (emulator-5560) 20
+Querying (emulator-5562) 20
+Querying (emulator-5556) 19
+Querying (emulator-5558) 20Querying (emulator-5554) 20
+
+Querying (emulator-5560) 21
+Querying (emulator-5562) 21
+Querying (emulator-5556) 20
+Querying (emulator-5554) 21
+Querying (emulator-5560) 22
+Querying (emulator-5558) 21
+Querying (emulator-5562) 22
+Querying (emulator-5556) 21
+Querying (emulator-5554) 22
+Querying (emulator-5560) 23
+Querying (emulator-5558) 22
+Querying (emulator-5562) 23
+Querying (emulator-5556) 22
+Querying (emulator-5554) 23
+Querying (emulator-5560) 24
+Querying (emulator-5558) 23
+Querying (emulator-5562) 24
+Querying (emulator-5556) 23
+Querying (emulator-5554) 24
+Querying (emulator-5558) 24
+Querying (emulator-5556) 24
+Verifying total ordering (note: each "key" in the output below may not be the exact key if there was a failure. It is just the nth message that the grader is verifying.)
+Missing a message sequence from emulator-5558, missing key: 10
+Ordering & failure handling score based on 1 run (the result can be incorrect if your implementation is centralized or has randomness in failure handling): 0
+Total score: 4
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Installing on emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Starting on emulator-5556
+Starting on emulator-5558
+Starting on emulator-5560
+Starting on emulator-5562
+Entering messages
+Waiting for 10 seconds to stabilize...
+Retrieving messages
+Querying (emulator-5554) 0
+Querying (emulator-5556) 0
+Querying (emulator-5558) 0
+ Querying (emulator-5560) 0
+ Querying (emulator-5562) 0
+Querying (emulator-5560) 1
+Querying (emulator-5556) 1
+Querying (emulator-5554) 1
+Querying (emulator-5562) 1
+Querying (emulator-5558) 1
+Querying (emulator-5560) 2
+Querying (emulator-5556) 2
+Querying (emulator-5554) 2
+Querying (emulator-5562) 2
+Querying (emulator-5558) 2
+Querying (emulator-5560) 3
+Querying (emulator-5554) 3
+Querying (emulator-5556) 3
+Querying (emulator-5562) 3
+Querying (emulator-5558) 3
+Querying (emulator-5560) 4
+Querying (emulator-5556) 4
+Querying (emulator-5554) 4
+Querying (emulator-5562) 4
+Querying (emulator-5558) 4
+Querying (emulator-5560) 5
+Querying (emulator-5554) 5
+Querying (emulator-5556) 5
+Querying (emulator-5562) 5
+Querying (emulator-5558) 5
+Querying (emulator-5560) 6
+Querying (emulator-5554) 6
+Querying (emulator-5556) 6
+Querying (emulator-5562) 6
+Querying (emulator-5558) 6
+Querying (emulator-5560) 7
+Querying (emulator-5554) 7
+Querying (emulator-5556) 7
+Querying (emulator-5562) 7
+Querying (emulator-5558) 7
+Querying (emulator-5560) 8
+Querying (emulator-5554) 8
+Querying (emulator-5556) 8
+Querying (emulator-5562) 8
+Querying (emulator-5558) 8
+Querying (emulator-5560) 9
+Querying (emulator-5556) 9
+Querying (emulator-5554) 9
+Querying (emulator-5562) 9
+Querying (emulator-5558) 9
+Querying (emulator-5560) 10
+Querying (emulator-5554) 10
+Querying (emulator-5556) 10
+Querying (emulator-5562) 10
+Querying (emulator-5558) 10
+Querying (emulator-5560) 11
+Querying (emulator-5554) 11
+Querying (emulator-5556) 11
+Querying (emulator-5558) 11
+Querying (emulator-5560) 12
+Querying (emulator-5562) 11
+Querying (emulator-5556) 12
+Querying (emulator-5554) 12
+Querying (emulator-5558) 12
+Querying (emulator-5562) 12
+Querying (emulator-5560) 13
+Querying (emulator-5556) 13
+Querying (emulator-5554) 13
+Querying (emulator-5558) 13
+Querying (emulator-5560) 14
+Querying (emulator-5562) 13
+Querying (emulator-5556) 14
+Querying (emulator-5554) 14
+Querying (emulator-5558) 14
+Querying (emulator-5560) 15
+Querying (emulator-5562) 14
+Querying (emulator-5554) 15
+Querying (emulator-5556) 15
+Querying (emulator-5560) 16
+Querying (emulator-5558) 15
+Querying (emulator-5562) 15
+Querying (emulator-5554) 16
+Querying (emulator-5556) 16
+Querying (emulator-5560) 17
+Querying (emulator-5558) 16
+Querying (emulator-5556) 17
+Querying (emulator-5562) 16
+Querying (emulator-5554) 17
+Querying (emulator-5560) 18
+Querying (emulator-5558) 17
+Querying (emulator-5556) 18
+Querying (emulator-5554) 18
+Querying (emulator-5562) 17
+Querying (emulator-5560) 19
+Querying (emulator-5558) 18
+Querying (emulator-5556) 19
+Querying (emulator-5554) 19
+Querying (emulator-5560) 20
+Querying (emulator-5562) 18
+Querying (emulator-5558) 19
+Querying (emulator-5556) 20
+Querying (emulator-5554) 20
+Querying (emulator-5560) 21
+Querying (emulator-5562) 19
+Querying (emulator-5558) 20
+Querying (emulator-5556) 21
+Querying (emulator-5554) 21
+Querying (emulator-5560) 22
+Querying (emulator-5562) 20
+Querying (emulator-5558) 21
+Querying (emulator-5556) 22
+Querying (emulator-5554) 22
+Querying (emulator-5560) 23
+Querying (emulator-5562) 21
+Querying (emulator-5558) 22
+Querying (emulator-5556) 23
+Querying (emulator-5554) 23
+Querying (emulator-5560) 24
+Querying (emulator-5562) 22
+Querying (emulator-5558) 23
+Querying (emulator-5556) 24
+Querying (emulator-5554) 24
+Querying (emulator-5562) 23
+Querying (emulator-5558) 24
+Querying (emulator-5562) 24
+Verifying total ordering (note: each "key" in the output below may not be the exact key if there was a failure. It is just the nth message that the grader is verifying.)
+Total ordering score: 2
+Verifying FIFO ordering
+FIFO ordering score: 2
+Ordering score: 4
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Installing on emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5556
+Starting on emulator-5558
+Starting on emulator-5560
+Starting on emulator-5562
+Starting on emulator-5554
+Entering messages
+Force-stopping on emulator-5556
+Waiting for 10 seconds to stabilize...
+Retrieving messages
+Querying (emulator-5556) 0
+Querying (emulator-5558) 0
+Querying (emulator-5560) 0Querying (emulator-5562) 0
+
+Querying (emulator-5554) 0
+Querying (emulator-5554) 1
+Querying (emulator-5558) 1
+Querying (emulator-5562) 1
+Querying (emulator-5560) 1
+Querying (emulator-5556) 1
+Querying (emulator-5554) 2
+Querying (emulator-5558) 2
+Querying (emulator-5560) 2
+Querying (emulator-5562) 2
+Querying (emulator-5556) 2
+Querying (emulator-5554) 3
+Querying (emulator-5558) 3
+Querying (emulator-5560) 3
+Querying (emulator-5556) 3
+Querying (emulator-5562) 3
+Querying (emulator-5554) 4
+Querying (emulator-5558) 4
+Querying (emulator-5560) 4
+Querying (emulator-5556) 4
+Querying (emulator-5562) 4
+Querying (emulator-5554) 5
+Querying (emulator-5558) 5
+Querying (emulator-5560) 5
+Querying (emulator-5556) 5
+Querying (emulator-5562) 5
+Querying (emulator-5554) 6
+Querying (emulator-5558) 6
+Querying (emulator-5560) 6
+Querying (emulator-5556) 6
+Querying (emulator-5562) 6
+Querying (emulator-5554) 7
+Querying (emulator-5558) 7
+Querying (emulator-5560) 7
+Querying (emulator-5556) 7
+Querying (emulator-5562) 7
+Querying (emulator-5554) 8
+Querying (emulator-5558) 8
+Querying (emulator-5560) 8
+Querying (emulator-5556) 8
+Querying (emulator-5554) 9
+Querying (emulator-5562) 8
+Querying (emulator-5558) 9
+Querying (emulator-5560) 9
+Querying (emulator-5556) 9
+Querying (emulator-5554) 10
+Querying (emulator-5558) 10
+Querying (emulator-5562) 9
+Querying (emulator-5560) 10
+Querying (emulator-5556) 10
+Querying (emulator-5554) 11
+Querying (emulator-5558) 11
+Querying (emulator-5562) 10
+Querying (emulator-5560) 11
+Querying (emulator-5556) 11
+Querying (emulator-5554) 12
+Querying (emulator-5562) 11
+Querying (emulator-5558) 12
+Querying (emulator-5560) 12
+Querying (emulator-5556) 12
+Querying (emulator-5554) 13
+Querying (emulator-5562) 12
+Querying (emulator-5558) 13
+Querying (emulator-5560) 13
+Querying (emulator-5556) 13
+Querying (emulator-5554) 14
+Querying (emulator-5562) 13
+Querying (emulator-5558) 14
+Querying (emulator-5560) 14
+Querying (emulator-5556) 14
+Querying (emulator-5554) 15
+Querying (emulator-5562) 14
+Querying (emulator-5558) 15
+Querying (emulator-5560) 15
+Querying (emulator-5556) 15
+Querying (emulator-5554) 16
+Querying (emulator-5562) 15
+Querying (emulator-5558) 16
+Querying (emulator-5560) 16
+Querying (emulator-5556) 16
+Querying (emulator-5554) 17
+Querying (emulator-5562) 16
+Querying (emulator-5558) 17
+Querying (emulator-5560) 17
+Querying (emulator-5556) 17
+Querying (emulator-5554) 18
+Querying (emulator-5562) 17
+Querying (emulator-5558) 18
+Querying (emulator-5560) 18
+Querying (emulator-5554) 19
+Querying (emulator-5556) 18
+Querying (emulator-5562) 18
+Querying (emulator-5558) 19
+Querying (emulator-5560) 19
+Querying (emulator-5554) 20
+Querying (emulator-5556) 19
+Querying (emulator-5562) 19
+Querying (emulator-5558) 20
+Querying (emulator-5560) 20
+Querying (emulator-5554) 21
+Querying (emulator-5556) 20
+Querying (emulator-5562) 20
+Querying (emulator-5558) 21
+Querying (emulator-5560) 21
+Querying (emulator-5554) 22
+Querying (emulator-5556) 21
+Querying (emulator-5562) 21
+Querying (emulator-5560) 22
+Querying (emulator-5558) 22
+Querying (emulator-5554) 23
+Querying (emulator-5556) 22
+Querying (emulator-5562) 22
+Querying (emulator-5560) 23
+Querying (emulator-5558) 23
+Querying (emulator-5554) 24
+Querying (emulator-5556) 23
+Querying (emulator-5562) 23
+Querying (emulator-5560) 24
+Querying (emulator-5558) 24
+Querying (emulator-5556) 24
+Querying (emulator-5562) 24
+Verifying total ordering (note: each "key" in the output below may not be the exact key if there was a failure. It is just the nth message that the grader is verifying.)
+Total ordering verified
+Verifying FIFO ordering
+FIFO ordering verified
+Ordering & failure handling score based on 1 run (the result can be incorrect if your implementation is centralized or has randomness in failure handling): 6
+Total score: 10
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Installing on emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Starting on emulator-5556
+Starting on emulator-5558
+Starting on emulator-5560
+Starting on emulator-5562
+Entering messages
+Waiting for 10 seconds to stabilize...
+Retrieving messages
+Querying (emulator-5554) 0
+Querying (emulator-5556) 0
+Querying (emulator-5558) 0
+Querying (emulator-5560) 0
+Querying (emulator-5562) 0
+Querying (emulator-5560) 1
+Querying (emulator-5554) 1
+Querying (emulator-5556) 1
+Querying (emulator-5558) 1
+Querying (emulator-5562) 1
+Querying (emulator-5554) 2
+Querying (emulator-5558) 2
+Querying (emulator-5556) 2
+Querying (emulator-5560) 2
+Querying (emulator-5562) 2
+Querying (emulator-5558) 3
+Querying (emulator-5556) 3
+Querying (emulator-5560) 3
+ Querying (emulator-5554) 3
+Querying (emulator-5562) 3
+Querying (emulator-5558) 4
+Querying (emulator-5560) 4
+Querying (emulator-5554) 4
+Querying (emulator-5556) 4
+Querying (emulator-5562) 4
+Querying (emulator-5558) 5
+Querying (emulator-5554) 5
+Querying (emulator-5560) 5
+Querying (emulator-5556) 5
+Querying (emulator-5562) 5
+Querying (emulator-5558) 6
+Querying (emulator-5554) 6
+Querying (emulator-5556) 6
+Querying (emulator-5560) 6
+Querying (emulator-5562) 6
+Querying (emulator-5558) 7
+Querying (emulator-5556) 7
+Querying (emulator-5554) 7
+Querying (emulator-5560) 7
+Querying (emulator-5562) 7
+Querying (emulator-5558) 8
+Querying (emulator-5556) 8
+Querying (emulator-5560) 8
+Querying (emulator-5562) 8
+Querying (emulator-5554) 8
+Querying (emulator-5558) 9
+Querying (emulator-5556) 9
+Querying (emulator-5554) 9
+Querying (emulator-5562) 9Querying (emulator-5560) 9
+
+Querying (emulator-5558) 10
+Querying (emulator-5556) 10
+Querying (emulator-5560) 10
+Querying (emulator-5554) 10
+Querying (emulator-5562) 10
+Querying (emulator-5558) 11
+Querying (emulator-5556) 11
+Querying (emulator-5560) 11
+Querying (emulator-5554) 11
+Querying (emulator-5562) 11
+Querying (emulator-5558) 12
+Querying (emulator-5556) 12
+Querying (emulator-5554) 12
+Querying (emulator-5560) 12
+Querying (emulator-5562) 12
+Querying (emulator-5558) 13
+Querying (emulator-5556) 13
+Querying (emulator-5554) 13
+Querying (emulator-5560) 13
+Querying (emulator-5562) 13
+Querying (emulator-5558) 14
+Querying (emulator-5556) 14
+Querying (emulator-5554) 14
+Querying (emulator-5560) 14
+Querying (emulator-5562) 14
+Querying (emulator-5558) 15
+Querying (emulator-5556) 15
+Querying (emulator-5554) 15
+Querying (emulator-5560) 15
+Querying (emulator-5562) 15
+Querying (emulator-5558) 16
+Querying (emulator-5556) 16
+Querying (emulator-5554) 16
+Querying (emulator-5560) 16
+Querying (emulator-5562) 16
+Querying (emulator-5556) 17
+Querying (emulator-5558) 17
+Querying (emulator-5554) 17
+Querying (emulator-5560) 17
+Querying (emulator-5562) 17
+Querying (emulator-5556) 18
+Querying (emulator-5558) 18
+Querying (emulator-5554) 18
+Querying (emulator-5560) 18
+Querying (emulator-5562) 18
+Querying (emulator-5556) 19
+Querying (emulator-5558) 19
+Querying (emulator-5554) 19
+Querying (emulator-5560) 19
+Querying (emulator-5562) 19
+Querying (emulator-5556) 20
+Querying (emulator-5558) 20
+Querying (emulator-5554) 20
+Querying (emulator-5560) 20
+Querying (emulator-5562) 20
+Querying (emulator-5556) 21
+Querying (emulator-5558) 21
+Querying (emulator-5554) 21
+Querying (emulator-5560) 21
+Querying (emulator-5562) 21
+Querying (emulator-5556) 22
+Querying (emulator-5558) 22
+Querying (emulator-5554) 22
+Querying (emulator-5560) 22
+Querying (emulator-5562) 22
+Querying (emulator-5556) 23
+Querying (emulator-5558) 23
+Querying (emulator-5554) 23
+Querying (emulator-5560) 23
+Querying (emulator-5562) 23
+Querying (emulator-5556) 24
+Querying (emulator-5558) 24
+Querying (emulator-5554) 24
+Querying (emulator-5560) 24
+Querying (emulator-5562) 24
+Verifying total ordering (note: each "key" in the output below may not be the exact key if there was a failure. It is just the nth message that the grader is verifying.)
+Total ordering score: 2
+Verifying FIFO ordering
+FIFO ordering score: 2
+Ordering score: 4
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Installing on emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5562
+Starting on emulator-5560
+Starting on emulator-5556
+Starting on emulator-5558
+Starting on emulator-5554
+Entering messages
+Force-stopping on emulator-5562
+Waiting for 10 seconds to stabilize...
+Retrieving messages
+Querying (emulator-5562) 0
+Querying (emulator-5560) 0
+Querying (emulator-5556) 0
+ Querying (emulator-5558) 0
+Querying (emulator-5554) 0
+Querying (emulator-5560) 1
+Querying (emulator-5556) 1
+Querying (emulator-5558) 1
+Querying (emulator-5562) 1
+Querying (emulator-5554) 1
+Querying (emulator-5560) 2
+Querying (emulator-5562) 2
+Querying (emulator-5558) 2
+Querying (emulator-5556) 2
+Querying (emulator-5554) 2
+Querying (emulator-5560) 3
+Querying (emulator-5558) 3
+Querying (emulator-5562) 3
+Querying (emulator-5554) 3
+Querying (emulator-5556) 3
+Querying (emulator-5560) 4
+Querying (emulator-5562) 4
+Querying (emulator-5554) 4
+Querying (emulator-5558) 4
+Querying (emulator-5556) 4
+Querying (emulator-5560) 5
+Querying (emulator-5562) 5
+Querying (emulator-5554) 5
+Querying (emulator-5558) 5
+Querying (emulator-5556) 5
+Querying (emulator-5560) 6
+Querying (emulator-5562) 6
+Querying (emulator-5554) 6
+Querying (emulator-5558) 6
+Querying (emulator-5556) 6
+Querying (emulator-5560) 7
+Querying (emulator-5562) 7
+Querying (emulator-5554) 7
+Querying (emulator-5558) 7
+Querying (emulator-5556) 7
+Querying (emulator-5560) 8
+Querying (emulator-5562) 8
+Querying (emulator-5554) 8
+Querying (emulator-5558) 8
+Querying (emulator-5556) 8
+Querying (emulator-5560) 9
+Querying (emulator-5562) 9
+Querying (emulator-5554) 9
+Querying (emulator-5558) 9
+Querying (emulator-5556) 9
+Querying (emulator-5560) 10
+Querying (emulator-5562) 10
+Querying (emulator-5554) 10
+Querying (emulator-5558) 10
+Querying (emulator-5556) 10
+Querying (emulator-5560) 11
+Querying (emulator-5562) 11
+Querying (emulator-5554) 11
+Querying (emulator-5558) 11
+Querying (emulator-5560) 12
+Querying (emulator-5556) 11
+Querying (emulator-5562) 12
+Querying (emulator-5554) 12
+Querying (emulator-5558) 12
+Querying (emulator-5560) 13
+Querying (emulator-5556) 12
+Querying (emulator-5562) 13
+Querying (emulator-5554) 13
+Querying (emulator-5558) 13
+Querying (emulator-5560) 14
+Querying (emulator-5556) 13
+Querying (emulator-5562) 14
+Querying (emulator-5554) 14
+Querying (emulator-5558) 14
+Querying (emulator-5560) 15
+Querying (emulator-5556) 14
+Querying (emulator-5562) 15
+Querying (emulator-5554) 15
+Querying (emulator-5558) 15
+Querying (emulator-5560) 16
+Querying (emulator-5562) 16
+Querying (emulator-5556) 15
+Querying (emulator-5554) 16
+Querying (emulator-5558) 16
+Querying (emulator-5560) 17
+Querying (emulator-5562) 17
+Querying (emulator-5554) 17
+Querying (emulator-5556) 16
+Querying (emulator-5558) 17
+Querying (emulator-5560) 18
+Querying (emulator-5562) 18
+Querying (emulator-5554) 18
+Querying (emulator-5556) 17
+Querying (emulator-5558) 18
+Querying (emulator-5560) 19
+Querying (emulator-5562) 19
+Querying (emulator-5554) 19
+Querying (emulator-5556) 18
+Querying (emulator-5560) 20
+Querying (emulator-5558) 19
+Querying (emulator-5562) 20
+Querying (emulator-5554) 20
+Querying (emulator-5556) 19
+Querying (emulator-5560) 21
+Querying (emulator-5558) 20
+Querying (emulator-5562) 21
+Querying (emulator-5554) 21
+Querying (emulator-5556) 20
+Querying (emulator-5560) 22
+Querying (emulator-5558) 21
+Querying (emulator-5562) 22
+Querying (emulator-5554) 22
+Querying (emulator-5556) 21
+Querying (emulator-5560) 23
+Querying (emulator-5558) 22
+Querying (emulator-5562) 23
+Querying (emulator-5554) 23
+Querying (emulator-5560) 24
+Querying (emulator-5556) 22
+Querying (emulator-5558) 23
+Querying (emulator-5562) 24
+Querying (emulator-5554) 24
+Querying (emulator-5556) 23
+Querying (emulator-5558) 24
+Querying (emulator-5556) 24
+Verifying total ordering (note: each "key" in the output below may not be the exact key if there was a failure. It is just the nth message that the grader is verifying.)
+Missing a message sequence from emulator-5560, missing key: 15
+Ordering & failure handling score based on 1 run (the result can be incorrect if your implementation is centralized or has randomness in failure handling): 0
+Total score: 4
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Installing on emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Starting on emulator-5556
+Starting on emulator-5558
+Starting on emulator-5560
+Starting on emulator-5562
+Entering messages
+Waiting for 10 seconds to stabilize...
+Retrieving messages
+Querying (emulator-5554) 0
+ Querying (emulator-5556) 0
+Querying (emulator-5558) 0
+Querying (emulator-5560) 0
+Querying (emulator-5562) 0
+Querying (emulator-5562) 1
+Querying (emulator-5558) 1
+Querying (emulator-5556) 1
+ Querying (emulator-5554) 1
+Querying (emulator-5560) 1
+Querying (emulator-5554) 2
+Querying (emulator-5562) 2
+Querying (emulator-5558) 2
+Querying (emulator-5560) 2
+Querying (emulator-5556) 2
+Querying (emulator-5554) 3
+Querying (emulator-5558) 3
+Querying (emulator-5560) 3
+Querying (emulator-5562) 3
+Querying (emulator-5556) 3
+Querying (emulator-5554) 4
+Querying (emulator-5558) 4
+Querying (emulator-5560) 4
+Querying (emulator-5562) 4
+Querying (emulator-5556) 4
+Querying (emulator-5554) 5
+Querying (emulator-5558) 5
+Querying (emulator-5560) 5
+Querying (emulator-5556) 5
+Querying (emulator-5562) 5
+Querying (emulator-5554) 6
+Querying (emulator-5558) 6
+Querying (emulator-5556) 6
+Querying (emulator-5560) 6
+Querying (emulator-5562) 6
+Querying (emulator-5554) 7
+Querying (emulator-5558) 7
+Querying (emulator-5556) 7
+Querying (emulator-5560) 7
+Querying (emulator-5562) 7
+Querying (emulator-5554) 8
+Querying (emulator-5558) 8
+Querying (emulator-5556) 8
+Querying (emulator-5560) 8
+Querying (emulator-5562) 8
+Querying (emulator-5554) 9
+Querying (emulator-5558) 9
+Querying (emulator-5556) 9
+Querying (emulator-5562) 9
+Querying (emulator-5560) 9
+Querying (emulator-5554) 10
+Querying (emulator-5558) 10
+Querying (emulator-5556) 10
+Querying (emulator-5562) 10
+Querying (emulator-5560) 10
+Querying (emulator-5558) 11
+Querying (emulator-5554) 11
+Querying (emulator-5556) 11
+Querying (emulator-5562) 11
+Querying (emulator-5560) 11
+Querying (emulator-5558) 12
+Querying (emulator-5554) 12
+Querying (emulator-5556) 12
+Querying (emulator-5562) 12
+Querying (emulator-5560) 12
+Querying (emulator-5554) 13
+Querying (emulator-5558) 13
+Querying (emulator-5556) 13
+Querying (emulator-5562) 13
+Querying (emulator-5560) 13
+Querying (emulator-5554) 14
+Querying (emulator-5558) 14
+Querying (emulator-5556) 14
+Querying (emulator-5560) 14
+Querying (emulator-5562) 14
+Querying (emulator-5554) 15
+Querying (emulator-5558) 15
+Querying (emulator-5556) 15
+Querying (emulator-5560) 15
+Querying (emulator-5562) 15
+Querying (emulator-5554) 16
+Querying (emulator-5558) 16
+Querying (emulator-5556) 16
+Querying (emulator-5560) 16
+Querying (emulator-5562) 16
+Querying (emulator-5554) 17
+Querying (emulator-5558) 17
+Querying (emulator-5556) 17
+Querying (emulator-5560) 17
+Querying (emulator-5562) 17
+Querying (emulator-5554) 18
+Querying (emulator-5558) 18
+Querying (emulator-5556) 18
+Querying (emulator-5560) 18
+Querying (emulator-5562) 18
+Querying (emulator-5558) 19
+Querying (emulator-5556) 19
+Querying (emulator-5554) 19
+Querying (emulator-5560) 19
+Querying (emulator-5562) 19
+Querying (emulator-5558) 20
+Querying (emulator-5556) 20
+Querying (emulator-5554) 20
+Querying (emulator-5560) 20
+Querying (emulator-5562) 20
+Querying (emulator-5558) 21
+Querying (emulator-5556) 21
+Querying (emulator-5554) 21
+Querying (emulator-5560) 21
+Querying (emulator-5562) 21
+Querying (emulator-5558) 22
+Querying (emulator-5556) 22
+Querying (emulator-5554) 22
+Querying (emulator-5560) 22
+Querying (emulator-5562) 22
+Querying (emulator-5558) 23
+Querying (emulator-5556) 23
+Querying (emulator-5554) 23
+Querying (emulator-5560) 23
+Querying (emulator-5562) 23
+Querying (emulator-5558) 24
+Querying (emulator-5554) 24
+Querying (emulator-5556) 24
+Querying (emulator-5560) 24
+Querying (emulator-5562) 24
+Verifying total ordering (note: each "key" in the output below may not be the exact key if there was a failure. It is just the nth message that the grader is verifying.)
+Total ordering score: 2
+Verifying FIFO ordering
+FIFO ordering score: 2
+Ordering score: 4
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Installing on emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5560
+Starting on emulator-5562
+Starting on emulator-5556
+Starting on emulator-5558
+Starting on emulator-5554
+Entering messages
+Force-stopping on emulator-5560
+Waiting for 10 seconds to stabilize...
+Retrieving messages
+Querying (emulator-5560) 0
+Querying (emulator-5562) 0
+Querying (emulator-5556) 0
+Querying (emulator-5558) 0
+Querying (emulator-5554) 0
+Querying (emulator-5562) 1
+Querying (emulator-5556) 1
+Querying (emulator-5558) 1
+Querying (emulator-5560) 1
+Querying (emulator-5554) 1
+Querying (emulator-5560) 2
+Querying (emulator-5562) 2
+Querying (emulator-5556) 2
+Querying (emulator-5558) 2
+Querying (emulator-5554) 2
+Querying (emulator-5560) 3
+Querying (emulator-5562) 3
+Querying (emulator-5556) 3
+Querying (emulator-5554) 3
+Querying (emulator-5558) 3
+Querying (emulator-5560) 4
+Querying (emulator-5562) 4
+Querying (emulator-5556) 4
+Querying (emulator-5554) 4
+Querying (emulator-5558) 4
+Querying (emulator-5560) 5
+Querying (emulator-5562) 5
+Querying (emulator-5556) 5
+Querying (emulator-5554) 5
+Querying (emulator-5558) 5
+Querying (emulator-5560) 6
+Querying (emulator-5562) 6
+Querying (emulator-5554) 6
+Querying (emulator-5556) 6
+Querying (emulator-5558) 6
+Querying (emulator-5560) 7
+Querying (emulator-5562) 7
+Querying (emulator-5554) 7
+Querying (emulator-5556) 7
+Querying (emulator-5560) 8
+Querying (emulator-5558) 7
+Querying (emulator-5562) 8
+Querying (emulator-5554) 8
+Querying (emulator-5556) 8
+Querying (emulator-5560) 9
+Querying (emulator-5558) 8
+Querying (emulator-5562) 9
+Querying (emulator-5554) 9
+Querying (emulator-5560) 10
+Querying (emulator-5556) 9
+Querying (emulator-5558) 9
+Querying (emulator-5562) 10
+Querying (emulator-5554) 10
+Querying (emulator-5560) 11
+Querying (emulator-5556) 10
+Querying (emulator-5558) 10
+Querying (emulator-5562) 11
+Querying (emulator-5554) 11
+Querying (emulator-5560) 12
+Querying (emulator-5556) 11
+Querying (emulator-5558) 11
+Querying (emulator-5554) 12
+Querying (emulator-5562) 12
+Querying (emulator-5560) 13
+Querying (emulator-5556) 12
+Querying (emulator-5558) 12
+Querying (emulator-5554) 13
+Querying (emulator-5560) 14
+Querying (emulator-5562) 13
+Querying (emulator-5556) 13
+Querying (emulator-5558) 13
+Querying (emulator-5560) 15
+Querying (emulator-5554) 14
+Querying (emulator-5562) 14
+Querying (emulator-5556) 14
+Querying (emulator-5558) 14
+Querying (emulator-5554) 15
+Querying (emulator-5560) 16
+Querying (emulator-5562) 15
+Querying (emulator-5556) 15
+Querying (emulator-5558) 15
+Querying (emulator-5554) 16
+Querying (emulator-5560) 17
+Querying (emulator-5562) 16
+Querying (emulator-5556) 16
+Querying (emulator-5558) 16
+Querying (emulator-5554) 17
+Querying (emulator-5560) 18
+Querying (emulator-5562) 17
+Querying (emulator-5556) 17
+Querying (emulator-5558) 17
+Querying (emulator-5554) 18
+Querying (emulator-5560) 19
+Querying (emulator-5562) 18
+Querying (emulator-5556) 18
+Querying (emulator-5558) 18
+Querying (emulator-5554) 19
+Querying (emulator-5560) 20
+Querying (emulator-5562) 19
+Querying (emulator-5556) 19
+Querying (emulator-5558) 19
+Querying (emulator-5554) 20
+Querying (emulator-5560) 21
+Querying (emulator-5562) 20
+Querying (emulator-5556) 20
+Querying (emulator-5560) 22
+Querying (emulator-5558) 20
+Querying (emulator-5554) 21
+Querying (emulator-5562) 21
+Querying (emulator-5556) 21
+Querying (emulator-5560) 23
+Querying (emulator-5558) 21
+Querying (emulator-5554) 22
+Querying (emulator-5562) 22
+Querying (emulator-5556) 22
+Querying (emulator-5560) 24
+Querying (emulator-5558) 22
+Querying (emulator-5554) 23
+Querying (emulator-5562) 23
+Querying (emulator-5556) 23
+Querying (emulator-5558) 23
+Querying (emulator-5554) 24
+Querying (emulator-5562) 24
+Querying (emulator-5556) 24
+Querying (emulator-5558) 24
+Verifying total ordering (note: each "key" in the output below may not be the exact key if there was a failure. It is just the nth message that the grader is verifying.)
+Total ordering verified
+Verifying FIFO ordering
+FIFO ordering verified
+Ordering & failure handling score based on 1 run (the result can be incorrect if your implementation is centralized or has randomness in failure handling): 6
+Total score: 10
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Installing on emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Starting on emulator-5556
+Starting on emulator-5558
+Starting on emulator-5560
+Starting on emulator-5562
+Entering messages
+Waiting for 10 seconds to stabilize...
+Retrieving messages
+Querying (emulator-5554) 0
+Querying (emulator-5556) 0
+ Querying (emulator-5558) 0
+Querying (emulator-5560) 0
+ Querying (emulator-5562) 0
+Querying (emulator-5560) 1Querying (emulator-5558) 1
+
+Querying (emulator-5556) 1
+Querying (emulator-5554) 1
+Querying (emulator-5562) 1
+Querying (emulator-5560) 2
+Querying (emulator-5558) 2
+Querying (emulator-5562) 2
+Querying (emulator-5554) 2
+Querying (emulator-5556) 2
+Querying (emulator-5560) 3
+Querying (emulator-5558) 3
+Querying (emulator-5562) 3
+Querying (emulator-5554) 3
+Querying (emulator-5556) 3
+Querying (emulator-5560) 4
+Querying (emulator-5558) 4
+Querying (emulator-5562) 4
+Querying (emulator-5556) 4
+Querying (emulator-5554) 4
+Querying (emulator-5560) 5
+Querying (emulator-5558) 5
+Querying (emulator-5556) 5
+Querying (emulator-5562) 5
+Querying (emulator-5554) 5
+Querying (emulator-5560) 6
+Querying (emulator-5558) 6
+Querying (emulator-5556) 6
+Querying (emulator-5554) 6
+Querying (emulator-5562) 6
+Querying (emulator-5560) 7
+Querying (emulator-5558) 7
+Querying (emulator-5556) 7
+Querying (emulator-5554) 7
+Querying (emulator-5562) 7
+Querying (emulator-5560) 8
+Querying (emulator-5558) 8
+Querying (emulator-5556) 8
+Querying (emulator-5562) 8
+Querying (emulator-5554) 8
+Querying (emulator-5560) 9
+Querying (emulator-5558) 9
+Querying (emulator-5556) 9
+Querying (emulator-5562) 9
+Querying (emulator-5554) 9
+Querying (emulator-5560) 10
+Querying (emulator-5558) 10
+Querying (emulator-5556) 10
+Querying (emulator-5562) 10
+Querying (emulator-5554) 10
+Querying (emulator-5560) 11
+Querying (emulator-5556) 11
+Querying (emulator-5558) 11
+Querying (emulator-5562) 11
+Querying (emulator-5554) 11
+Querying (emulator-5560) 12
+Querying (emulator-5556) 12
+Querying (emulator-5558) 12
+Querying (emulator-5562) 12
+Querying (emulator-5554) 12
+Querying (emulator-5560) 13
+Querying (emulator-5556) 13
+Querying (emulator-5558) 13
+Querying (emulator-5554) 13
+Querying (emulator-5562) 13
+Querying (emulator-5560) 14
+Querying (emulator-5556) 14
+Querying (emulator-5558) 14
+Querying (emulator-5554) 14
+Querying (emulator-5562) 14
+Querying (emulator-5560) 15
+Querying (emulator-5556) 15
+Querying (emulator-5558) 15
+Querying (emulator-5554) 15
+Querying (emulator-5562) 15
+Querying (emulator-5560) 16
+Querying (emulator-5556) 16
+Querying (emulator-5558) 16
+Querying (emulator-5562) 16
+Querying (emulator-5554) 16
+Querying (emulator-5560) 17
+Querying (emulator-5556) 17
+Querying (emulator-5558) 17
+Querying (emulator-5562) 17
+Querying (emulator-5554) 17
+Querying (emulator-5560) 18
+Querying (emulator-5556) 18
+Querying (emulator-5558) 18
+Querying (emulator-5562) 18
+Querying (emulator-5554) 18
+Querying (emulator-5560) 19
+Querying (emulator-5556) 19
+Querying (emulator-5558) 19
+Querying (emulator-5562) 19
+Querying (emulator-5554) 19
+Querying (emulator-5560) 20
+Querying (emulator-5556) 20
+Querying (emulator-5558) 20
+Querying (emulator-5562) 20
+Querying (emulator-5554) 20
+Querying (emulator-5560) 21
+Querying (emulator-5556) 21
+Querying (emulator-5562) 21
+Querying (emulator-5558) 21
+Querying (emulator-5554) 21
+Querying (emulator-5560) 22
+Querying (emulator-5556) 22
+Querying (emulator-5562) 22
+Querying (emulator-5558) 22
+Querying (emulator-5554) 22
+Querying (emulator-5560) 23
+Querying (emulator-5556) 23
+Querying (emulator-5562) 23
+Querying (emulator-5554) 23
+Querying (emulator-5558) 23
+Querying (emulator-5560) 24
+Querying (emulator-5556) 24
+Querying (emulator-5562) 24
+Querying (emulator-5554) 24
+Querying (emulator-5558) 24
+Verifying total ordering (note: each "key" in the output below may not be the exact key if there was a failure. It is just the nth message that the grader is verifying.)
+Total ordering score: 2
+Verifying FIFO ordering
+FIFO ordering score: 2
+Ordering score: 4
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Installing on emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5562
+Starting on emulator-5554
+Starting on emulator-5556
+Starting on emulator-5560
+Starting on emulator-5558
+Entering messages
+Force-stopping on emulator-5562
+Waiting for 10 seconds to stabilize...
+Retrieving messages
+Querying (emulator-5562) 0
+Querying (emulator-5554) 0
+Querying (emulator-5556) 0
+Querying (emulator-5560) 0
+Querying (emulator-5558) 0
+Querying (emulator-5554) 1
+Querying (emulator-5560) 1
+Querying (emulator-5558) 1
+Querying (emulator-5562) 1
+Querying (emulator-5556) 1
+Querying (emulator-5554) 2
+Querying (emulator-5560) 2
+Querying (emulator-5562) 2
+Querying (emulator-5558) 2
+Querying (emulator-5556) 2
+Querying (emulator-5560) 3
+Querying (emulator-5554) 3
+Querying (emulator-5558) 3
+Querying (emulator-5562) 3
+Querying (emulator-5556) 3
+Querying (emulator-5560) 4
+Querying (emulator-5554) 4
+Querying (emulator-5562) 4
+Querying (emulator-5558) 4
+Querying (emulator-5556) 4
+Querying (emulator-5560) 5
+Querying (emulator-5554) 5
+Querying (emulator-5562) 5
+Querying (emulator-5558) 5
+Querying (emulator-5556) 5
+Querying (emulator-5560) 6
+Querying (emulator-5554) 6
+Querying (emulator-5562) 6
+Querying (emulator-5558) 6
+Querying (emulator-5556) 6
+Querying (emulator-5560) 7
+Querying (emulator-5554) 7
+Querying (emulator-5562) 7
+Querying (emulator-5558) 7
+Querying (emulator-5556) 7
+Querying (emulator-5560) 8
+Querying (emulator-5554) 8
+Querying (emulator-5562) 8
+Querying (emulator-5558) 8
+Querying (emulator-5556) 8
+Querying (emulator-5560) 9
+Querying (emulator-5554) 9
+Querying (emulator-5562) 9
+Querying (emulator-5558) 9
+Querying (emulator-5556) 9
+Querying (emulator-5560) 10
+Querying (emulator-5562) 10
+Querying (emulator-5554) 10
+Querying (emulator-5558) 10
+Querying (emulator-5556) 10
+Querying (emulator-5560) 11
+Querying (emulator-5562) 11
+Querying (emulator-5554) 11
+Querying (emulator-5558) 11
+Querying (emulator-5556) 11
+Querying (emulator-5560) 12
+Querying (emulator-5554) 12
+Querying (emulator-5562) 12
+Querying (emulator-5558) 12
+Querying (emulator-5556) 12
+Querying (emulator-5560) 13
+Querying (emulator-5554) 13
+Querying (emulator-5562) 13
+Querying (emulator-5558) 13
+Querying (emulator-5556) 13
+Querying (emulator-5560) 14
+Querying (emulator-5562) 14
+Querying (emulator-5554) 14
+Querying (emulator-5558) 14
+Querying (emulator-5560) 15
+Querying (emulator-5556) 14
+Querying (emulator-5554) 15
+Querying (emulator-5562) 15
+Querying (emulator-5558) 15
+Querying (emulator-5560) 16
+Querying (emulator-5556) 15
+Querying (emulator-5562) 16
+Querying (emulator-5554) 16
+Querying (emulator-5558) 16
+Querying (emulator-5560) 17
+Querying (emulator-5556) 16
+Querying (emulator-5562) 17
+Querying (emulator-5554) 17
+Querying (emulator-5558) 17
+Querying (emulator-5560) 18
+Querying (emulator-5556) 17
+Querying (emulator-5562) 18
+Querying (emulator-5554) 18
+Querying (emulator-5558) 18
+Querying (emulator-5560) 19
+Querying (emulator-5556) 18
+Querying (emulator-5554) 19
+Querying (emulator-5562) 19
+Querying (emulator-5558) 19
+Querying (emulator-5560) 20
+Querying (emulator-5556) 19
+Querying (emulator-5562) 20
+Querying (emulator-5554) 20
+Querying (emulator-5558) 20
+Querying (emulator-5560) 21
+Querying (emulator-5556) 20
+Querying (emulator-5562) 21
+Querying (emulator-5554) 21
+Querying (emulator-5558) 21
+Querying (emulator-5560) 22
+Querying (emulator-5556) 21
+Querying (emulator-5562) 22
+Querying (emulator-5554) 22
+Querying (emulator-5558) 22
+Querying (emulator-5560) 23
+Querying (emulator-5556) 22
+Querying (emulator-5562) 23
+Querying (emulator-5554) 23
+Querying (emulator-5558) 23
+Querying (emulator-5560) 24
+Querying (emulator-5556) 23
+Querying (emulator-5562) 24
+Querying (emulator-5554) 24
+Querying (emulator-5558) 24
+Querying (emulator-5556) 24
+Verifying total ordering (note: each "key" in the output below may not be the exact key if there was a failure. It is just the nth message that the grader is verifying.)
+Missing a message sequence from emulator-5554, missing key: 14
+Ordering & failure handling score based on 1 run (the result can be incorrect if your implementation is centralized or has randomness in failure handling): 0
+Total score: 4
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Installing on emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Starting on emulator-5556
+Starting on emulator-5558
+Starting on emulator-5560
+Starting on emulator-5562
+Entering messages
+Waiting for 10 seconds to stabilize...
+Retrieving messages
+Querying (emulator-5554) 0
+Querying (emulator-5556) 0
+Querying (emulator-5558) 0
+Querying (emulator-5562) 0
+ Querying (emulator-5560) 0
+Querying (emulator-5554) 1
+Querying (emulator-5556) 1
+Querying (emulator-5560) 1
+Querying (emulator-5562) 1
+Querying (emulator-5558) 1
+Querying (emulator-5556) 2
+Querying (emulator-5560) 2
+Querying (emulator-5554) 2
+Querying (emulator-5558) 2
+Querying (emulator-5562) 2
+Querying (emulator-5556) 3
+Querying (emulator-5560) 3
+Querying (emulator-5558) 3
+Querying (emulator-5554) 3
+Querying (emulator-5562) 3
+Querying (emulator-5556) 4
+Querying (emulator-5554) 4
+Querying (emulator-5562) 4
+Querying (emulator-5560) 4
+Querying (emulator-5558) 4
+Querying (emulator-5556) 5
+Querying (emulator-5554) 5
+Querying (emulator-5558) 5
+Querying (emulator-5560) 5
+Querying (emulator-5562) 5
+Querying (emulator-5556) 6
+Querying (emulator-5554) 6
+Querying (emulator-5558) 6
+Querying (emulator-5562) 6
+Querying (emulator-5560) 6
+Querying (emulator-5556) 7
+Querying (emulator-5554) 7
+Querying (emulator-5562) 7
+Querying (emulator-5558) 7
+Querying (emulator-5560) 7
+Querying (emulator-5556) 8
+Querying (emulator-5554) 8
+Querying (emulator-5562) 8
+Querying (emulator-5558) 8
+Querying (emulator-5560) 8
+Querying (emulator-5556) 9
+Querying (emulator-5554) 9
+Querying (emulator-5558) 9
+Querying (emulator-5562) 9
+Querying (emulator-5560) 9
+Querying (emulator-5556) 10
+Querying (emulator-5554) 10
+Querying (emulator-5562) 10
+Querying (emulator-5558) 10
+Querying (emulator-5560) 10
+Querying (emulator-5556) 11
+Querying (emulator-5554) 11
+Querying (emulator-5562) 11
+Querying (emulator-5558) 11
+Querying (emulator-5560) 11
+Querying (emulator-5554) 12
+Querying (emulator-5556) 12
+Querying (emulator-5562) 12
+Querying (emulator-5558) 12
+Querying (emulator-5560) 12
+Querying (emulator-5554) 13
+Querying (emulator-5556) 13
+Querying (emulator-5562) 13
+Querying (emulator-5558) 13
+Querying (emulator-5560) 13
+Querying (emulator-5556) 14
+Querying (emulator-5554) 14
+Querying (emulator-5562) 14
+Querying (emulator-5558) 14
+Querying (emulator-5560) 14
+Querying (emulator-5556) 15
+Querying (emulator-5554) 15
+Querying (emulator-5562) 15
+Querying (emulator-5558) 15
+Querying (emulator-5556) 16
+Querying (emulator-5560) 15
+Querying (emulator-5554) 16
+Querying (emulator-5562) 16
+Querying (emulator-5558) 16
+Querying (emulator-5556) 17
+Querying (emulator-5560) 16
+Querying (emulator-5562) 17
+Querying (emulator-5554) 17
+Querying (emulator-5558) 17
+Querying (emulator-5556) 18
+Querying (emulator-5560) 17
+Querying (emulator-5554) 18
+Querying (emulator-5562) 18
+Querying (emulator-5558) 18
+Querying (emulator-5556) 19
+Querying (emulator-5560) 18
+Querying (emulator-5554) 19
+Querying (emulator-5562) 19
+Querying (emulator-5558) 19
+Querying (emulator-5556) 20
+Querying (emulator-5560) 19
+Querying (emulator-5554) 20
+Querying (emulator-5558) 20
+Querying (emulator-5562) 20
+Querying (emulator-5556) 21
+Querying (emulator-5560) 20
+Querying (emulator-5554) 21
+Querying (emulator-5558) 21
+Querying (emulator-5562) 21
+Querying (emulator-5556) 22
+Querying (emulator-5560) 21
+Querying (emulator-5554) 22
+Querying (emulator-5558) 22
+Querying (emulator-5562) 22
+Querying (emulator-5556) 23
+Querying (emulator-5560) 22
+Querying (emulator-5554) 23
+Querying (emulator-5562) 23
+Querying (emulator-5558) 23
+Querying (emulator-5556) 24
+Querying (emulator-5560) 23
+Querying (emulator-5554) 24
+Querying (emulator-5562) 24
+Querying (emulator-5558) 24
+Querying (emulator-5560) 24
+Verifying total ordering (note: each "key" in the output below may not be the exact key if there was a failure. It is just the nth message that the grader is verifying.)
+Total ordering score: 2
+Verifying FIFO ordering
+FIFO ordering score: 2
+Ordering score: 4
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Installing on emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5562
+Starting on emulator-5558
+Starting on emulator-5560
+Starting on emulator-5556
+Starting on emulator-5554
+Entering messages
+Force-stopping on emulator-5562
+Waiting for 10 seconds to stabilize...
+Retrieving messages
+Querying (emulator-5562) 0
+Querying (emulator-5558) 0
+Querying (emulator-5560) 0
+Querying (emulator-5556) 0
+Querying (emulator-5554) 0
+Querying (emulator-5560) 1
+Querying (emulator-5554) 1
+Querying (emulator-5562) 1
+Querying (emulator-5556) 1
+Querying (emulator-5558) 1
+Querying (emulator-5554) 2
+Querying (emulator-5560) 2
+Querying (emulator-5562) 2
+Querying (emulator-5558) 2
+Querying (emulator-5556) 2
+Querying (emulator-5562) 3
+Querying (emulator-5554) 3
+Querying (emulator-5560) 3
+Querying (emulator-5558) 3
+Querying (emulator-5556) 3
+Querying (emulator-5562) 4
+Querying (emulator-5554) 4
+Querying (emulator-5560) 4
+Querying (emulator-5558) 4
+Querying (emulator-5556) 4
+Querying (emulator-5562) 5
+Querying (emulator-5554) 5
+Querying (emulator-5558) 5
+Querying (emulator-5560) 5
+Querying (emulator-5556) 5
+Querying (emulator-5562) 6
+Querying (emulator-5554) 6
+Querying (emulator-5558) 6
+Querying (emulator-5560) 6
+Querying (emulator-5556) 6
+Querying (emulator-5562) 7
+Querying (emulator-5554) 7
+Querying (emulator-5558) 7
+Querying (emulator-5560) 7
+Querying (emulator-5556) 7
+Querying (emulator-5562) 8
+Querying (emulator-5554) 8
+Querying (emulator-5558) 8
+Querying (emulator-5560) 8
+Querying (emulator-5562) 9
+Querying (emulator-5556) 8
+Querying (emulator-5554) 9
+Querying (emulator-5558) 9
+Querying (emulator-5560) 9
+Querying (emulator-5562) 10
+Querying (emulator-5556) 9
+Querying (emulator-5554) 10
+Querying (emulator-5558) 10
+Querying (emulator-5560) 10
+Querying (emulator-5562) 11
+Querying (emulator-5556) 10
+Querying (emulator-5554) 11
+Querying (emulator-5562) 12
+Querying (emulator-5558) 11
+Querying (emulator-5560) 11
+Querying (emulator-5554) 12
+Querying (emulator-5556) 11
+Querying (emulator-5562) 13
+Querying (emulator-5558) 12
+Querying (emulator-5560) 12
+Querying (emulator-5554) 13
+Querying (emulator-5556) 12
+Querying (emulator-5562) 14
+Querying (emulator-5558) 13
+Querying (emulator-5560) 13
+Querying (emulator-5554) 14
+Querying (emulator-5556) 13
+Querying (emulator-5562) 15
+Querying (emulator-5558) 14
+Querying (emulator-5560) 14
+Querying (emulator-5554) 15
+Querying (emulator-5556) 14
+Querying (emulator-5562) 16
+Querying (emulator-5558) 15
+Querying (emulator-5560) 15
+Querying (emulator-5554) 16
+Querying (emulator-5556) 15
+Querying (emulator-5562) 17
+Querying (emulator-5558) 16
+Querying (emulator-5560) 16
+Querying (emulator-5554) 17
+Querying (emulator-5556) 16
+Querying (emulator-5562) 18
+Querying (emulator-5558) 17
+Querying (emulator-5554) 18
+Querying (emulator-5560) 17
+Querying (emulator-5562) 19
+Querying (emulator-5556) 17
+Querying (emulator-5558) 18
+Querying (emulator-5554) 19
+Querying (emulator-5560) 18
+Querying (emulator-5562) 20
+Querying (emulator-5556) 18
+Querying (emulator-5558) 19
+Querying (emulator-5554) 20
+Querying (emulator-5560) 19
+Querying (emulator-5562) 21
+Querying (emulator-5556) 19
+Querying (emulator-5558) 20
+Querying (emulator-5554) 21
+Querying (emulator-5560) 20
+Querying (emulator-5562) 22
+Querying (emulator-5556) 20
+Querying (emulator-5558) 21
+Querying (emulator-5554) 22
+Querying (emulator-5560) 21
+Querying (emulator-5562) 23
+Querying (emulator-5556) 21
+Querying (emulator-5558) 22
+Querying (emulator-5554) 23
+Querying (emulator-5560) 22
+Querying (emulator-5562) 24
+Querying (emulator-5556) 22
+Querying (emulator-5558) 23
+Querying (emulator-5554) 24
+Querying (emulator-5560) 23
+Querying (emulator-5556) 23
+Querying (emulator-5558) 24
+Querying (emulator-5560) 24
+Querying (emulator-5556) 24
+Verifying total ordering (note: each "key" in the output below may not be the exact key if there was a failure. It is just the nth message that the grader is verifying.)
+Missing a message sequence from emulator-5558, missing key: 14
+Ordering & failure handling score based on 1 run (the result can be incorrect if your implementation is centralized or has randomness in failure handling): 0
+Total score: 4
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Installing on emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Starting on emulator-5556
+Starting on emulator-5558
+Starting on emulator-5560
+Starting on emulator-5562
+Entering messages
+Waiting for 10 seconds to stabilize...
+Retrieving messages
+Querying (emulator-5554) 0
+Querying (emulator-5556) 0
+Querying (emulator-5558) 0Querying (emulator-5560) 0
+
+Querying (emulator-5562) 0
+Querying (emulator-5556) 1
+Querying (emulator-5560) 1
+Querying (emulator-5554) 1
+Querying (emulator-5558) 1
+Querying (emulator-5562) 1
+Querying (emulator-5560) 2
+Querying (emulator-5556) 2
+Querying (emulator-5554) 2
+Querying (emulator-5558) 2
+Querying (emulator-5562) 2
+Querying (emulator-5560) 3
+Querying (emulator-5556) 3
+Querying (emulator-5558) 3
+Querying (emulator-5554) 3
+Querying (emulator-5562) 3
+Querying (emulator-5560) 4
+Querying (emulator-5556) 4
+Querying (emulator-5554) 4
+Querying (emulator-5562) 4
+Querying (emulator-5558) 4
+Querying (emulator-5560) 5
+Querying (emulator-5556) 5
+Querying (emulator-5554) 5
+Querying (emulator-5562) 5
+Querying (emulator-5558) 5
+Querying (emulator-5560) 6
+Querying (emulator-5556) 6
+Querying (emulator-5554) 6
+Querying (emulator-5562) 6
+Querying (emulator-5560) 7
+Querying (emulator-5558) 6
+Querying (emulator-5556) 7
+Querying (emulator-5554) 7
+Querying (emulator-5562) 7
+Querying (emulator-5560) 8
+Querying (emulator-5558) 7
+Querying (emulator-5556) 8
+Querying (emulator-5554) 8
+Querying (emulator-5562) 8
+Querying (emulator-5560) 9
+Querying (emulator-5558) 8
+Querying (emulator-5556) 9
+Querying (emulator-5554) 9
+Querying (emulator-5562) 9
+Querying (emulator-5560) 10
+Querying (emulator-5558) 9
+Querying (emulator-5556) 10
+Querying (emulator-5554) 10
+Querying (emulator-5562) 10
+Querying (emulator-5560) 11
+Querying (emulator-5558) 10
+Querying (emulator-5556) 11
+Querying (emulator-5554) 11
+Querying (emulator-5562) 11
+Querying (emulator-5560) 12
+Querying (emulator-5558) 11
+Querying (emulator-5556) 12
+Querying (emulator-5554) 12
+Querying (emulator-5562) 12
+Querying (emulator-5560) 13
+Querying (emulator-5558) 12
+Querying (emulator-5556) 13
+Querying (emulator-5554) 13
+Querying (emulator-5562) 13
+Querying (emulator-5560) 14
+Querying (emulator-5558) 13
+Querying (emulator-5556) 14
+Querying (emulator-5554) 14
+Querying (emulator-5562) 14
+Querying (emulator-5560) 15
+Querying (emulator-5558) 14
+Querying (emulator-5556) 15
+Querying (emulator-5554) 15
+Querying (emulator-5562) 15
+Querying (emulator-5560) 16
+Querying (emulator-5558) 15
+Querying (emulator-5556) 16
+Querying (emulator-5554) 16
+Querying (emulator-5562) 16
+Querying (emulator-5560) 17
+Querying (emulator-5558) 16
+Querying (emulator-5556) 17
+Querying (emulator-5554) 17
+Querying (emulator-5562) 17
+Querying (emulator-5560) 18
+Querying (emulator-5558) 17
+Querying (emulator-5556) 18
+Querying (emulator-5554) 18
+Querying (emulator-5562) 18
+Querying (emulator-5560) 19
+Querying (emulator-5558) 18
+Querying (emulator-5556) 19
+Querying (emulator-5554) 19
+Querying (emulator-5562) 19
+Querying (emulator-5560) 20
+Querying (emulator-5558) 19
+Querying (emulator-5556) 20
+Querying (emulator-5554) 20
+Querying (emulator-5562) 20
+Querying (emulator-5560) 21
+Querying (emulator-5558) 20
+Querying (emulator-5556) 21
+Querying (emulator-5554) 21
+Querying (emulator-5562) 21
+Querying (emulator-5560) 22
+Querying (emulator-5558) 21
+Querying (emulator-5556) 22
+Querying (emulator-5554) 22
+Querying (emulator-5562) 22
+Querying (emulator-5560) 23
+Querying (emulator-5558) 22
+Querying (emulator-5554) 23
+Querying (emulator-5556) 23
+Querying (emulator-5562) 23
+Querying (emulator-5560) 24
+Querying (emulator-5558) 23
+Querying (emulator-5554) 24
+Querying (emulator-5562) 24
+Querying (emulator-5556) 24
+Querying (emulator-5558) 24
+Verifying total ordering (note: each "key" in the output below may not be the exact key if there was a failure. It is just the nth message that the grader is verifying.)
+Total ordering score: 2
+Verifying FIFO ordering
+FIFO ordering score: 2
+Ordering score: 4
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Installing on emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Starting on emulator-5560
+Starting on emulator-5558
+Starting on emulator-5556
+Starting on emulator-5562
+Entering messages
+Force-stopping on emulator-5554
+Waiting for 10 seconds to stabilize...
+Retrieving messages
+Querying (emulator-5554) 0
+Querying (emulator-5560) 0
+Querying (emulator-5558) 0
+Querying (emulator-5556) 0Querying (emulator-5562) 0
+
+Querying (emulator-5554) 1
+Querying (emulator-5556) 1
+Querying (emulator-5560) 1
+Querying (emulator-5558) 1
+Querying (emulator-5562) 1
+Querying (emulator-5554) 2
+Querying (emulator-5560) 2
+Querying (emulator-5556) 2
+Querying (emulator-5558) 2
+Querying (emulator-5562) 2
+Querying (emulator-5554) 3
+Querying (emulator-5560) 3
+Querying (emulator-5556) 3
+Querying (emulator-5558) 3
+Querying (emulator-5562) 3
+Querying (emulator-5554) 4
+Querying (emulator-5560) 4
+Querying (emulator-5556) 4
+Querying (emulator-5558) 4
+Querying (emulator-5562) 4
+Querying (emulator-5554) 5
+Querying (emulator-5560) 5
+Querying (emulator-5556) 5
+Querying (emulator-5554) 6
+Querying (emulator-5562) 5
+Querying (emulator-5560) 6
+Querying (emulator-5558) 5
+Querying (emulator-5554) 7
+Querying (emulator-5556) 6
+Querying (emulator-5562) 6
+Querying (emulator-5560) 7
+Querying (emulator-5558) 6
+Querying (emulator-5554) 8
+Querying (emulator-5556) 7
+Querying (emulator-5562) 7
+Querying (emulator-5560) 8
+Querying (emulator-5558) 7
+Querying (emulator-5554) 9
+Querying (emulator-5556) 8
+Querying (emulator-5560) 9
+Querying (emulator-5562) 8
+Querying (emulator-5558) 8
+Querying (emulator-5554) 10
+Querying (emulator-5556) 9
+Querying (emulator-5560) 10
+Querying (emulator-5562) 9
+Querying (emulator-5558) 9
+Querying (emulator-5554) 11
+Querying (emulator-5556) 10
+Querying (emulator-5560) 11
+Querying (emulator-5562) 10
+Querying (emulator-5558) 10
+Querying (emulator-5554) 12
+Querying (emulator-5556) 11
+Querying (emulator-5560) 12
+Querying (emulator-5562) 11
+Querying (emulator-5554) 13
+Querying (emulator-5558) 11
+Querying (emulator-5556) 12
+Querying (emulator-5560) 13
+Querying (emulator-5554) 14
+Querying (emulator-5562) 12
+Querying (emulator-5558) 12
+Querying (emulator-5556) 13
+Querying (emulator-5560) 14
+Querying (emulator-5554) 15
+Querying (emulator-5562) 13
+Querying (emulator-5558) 13
+Querying (emulator-5556) 14
+Querying (emulator-5560) 15
+Querying (emulator-5554) 16
+Querying (emulator-5562) 14
+Querying (emulator-5558) 14
+Querying (emulator-5556) 15
+Querying (emulator-5560) 16
+Querying (emulator-5554) 17
+Querying (emulator-5562) 15
+Querying (emulator-5560) 17
+Querying (emulator-5556) 16
+Querying (emulator-5558) 15
+Querying (emulator-5554) 18
+Querying (emulator-5562) 16
+Querying (emulator-5560) 18
+Querying (emulator-5556) 17
+Querying (emulator-5554) 19
+Querying (emulator-5558) 16
+Querying (emulator-5562) 17
+Querying (emulator-5560) 19
+Querying (emulator-5554) 20
+Querying (emulator-5556) 18
+Querying (emulator-5558) 17
+Querying (emulator-5562) 18
+Querying (emulator-5560) 20
+Querying (emulator-5554) 21
+Querying (emulator-5556) 19
+Querying (emulator-5558) 18
+Querying (emulator-5560) 21
+Querying (emulator-5562) 19
+Querying (emulator-5554) 22
+Querying (emulator-5556) 20
+Querying (emulator-5558) 19
+Querying (emulator-5560) 22
+Querying (emulator-5562) 20
+Querying (emulator-5554) 23
+Querying (emulator-5556) 21
+Querying (emulator-5558) 20
+Querying (emulator-5560) 23
+Querying (emulator-5562) 21
+Querying (emulator-5554) 24
+Querying (emulator-5556) 22
+Querying (emulator-5558) 21
+Querying (emulator-5560) 24
+Querying (emulator-5562) 22
+Querying (emulator-5556) 23
+Querying (emulator-5558) 22
+Querying (emulator-5562) 23
+Querying (emulator-5556) 24
+Querying (emulator-5558) 23
+Querying (emulator-5562) 24
+Querying (emulator-5558) 24
+Verifying total ordering (note: each "key" in the output below may not be the exact key if there was a failure. It is just the nth message that the grader is verifying.)
+Missing a message sequence from emulator-5560, missing key: 15
+Ordering & failure handling score based on 1 run (the result can be incorrect if your implementation is centralized or has randomness in failure handling): 0
+Total score: 4
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Installing on emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5554
+Starting on emulator-5556
+Starting on emulator-5558
+Starting on emulator-5560
+Starting on emulator-5562
+Entering messages
+Waiting for 10 seconds to stabilize...
+Retrieving messages
+Querying (emulator-5554) 0
+Querying (emulator-5556) 0
+Querying (emulator-5558) 0
+Querying (emulator-5560) 0
+Querying (emulator-5562) 0
+Querying (emulator-5554) 1
+Querying (emulator-5558) 1
+Querying (emulator-5556) 1
+Querying (emulator-5562) 1
+Querying (emulator-5560) 1
+Querying (emulator-5562) 2
+Querying (emulator-5558) 2
+Querying (emulator-5556) 2
+Querying (emulator-5554) 2
+Querying (emulator-5560) 2
+Querying (emulator-5554) 3
+Querying (emulator-5558) 3
+Querying (emulator-5562) 3
+Querying (emulator-5556) 3
+Querying (emulator-5560) 3
+Querying (emulator-5554) 4
+Querying (emulator-5558) 4
+Querying (emulator-5562) 4
+Querying (emulator-5556) 4
+Querying (emulator-5560) 4
+Querying (emulator-5562) 5
+Querying (emulator-5554) 5
+Querying (emulator-5558) 5
+Querying (emulator-5556) 5
+Querying (emulator-5560) 5
+Querying (emulator-5554) 6
+Querying (emulator-5562) 6
+Querying (emulator-5558) 6
+Querying (emulator-5556) 6
+Querying (emulator-5560) 6
+Querying (emulator-5554) 7
+Querying (emulator-5562) 7
+Querying (emulator-5558) 7
+Querying (emulator-5556) 7
+Querying (emulator-5560) 7
+Querying (emulator-5562) 8
+ Querying (emulator-5554) 8
+Querying (emulator-5558) 8
+Querying (emulator-5560) 8
+Querying (emulator-5556) 8
+Querying (emulator-5554) 9
+Querying (emulator-5562) 9
+Querying (emulator-5558) 9
+Querying (emulator-5560) 9
+Querying (emulator-5556) 9
+Querying (emulator-5562) 10
+Querying (emulator-5554) 10
+Querying (emulator-5558) 10
+Querying (emulator-5560) 10
+Querying (emulator-5556) 10
+Querying (emulator-5562) 11
+Querying (emulator-5554) 11
+Querying (emulator-5558) 11
+Querying (emulator-5560) 11
+Querying (emulator-5556) 11
+Querying (emulator-5554) 12
+Querying (emulator-5562) 12
+Querying (emulator-5558) 12
+Querying (emulator-5560) 12
+Querying (emulator-5556) 12
+Querying (emulator-5554) 13
+Querying (emulator-5562) 13
+Querying (emulator-5558) 13
+Querying (emulator-5560) 13
+Querying (emulator-5556) 13
+Querying (emulator-5554) 14
+Querying (emulator-5562) 14
+Querying (emulator-5558) 14
+Querying (emulator-5560) 14
+Querying (emulator-5556) 14
+Querying (emulator-5554) 15
+Querying (emulator-5562) 15
+Querying (emulator-5558) 15
+Querying (emulator-5560) 15
+Querying (emulator-5556) 15
+Querying (emulator-5554) 16
+Querying (emulator-5562) 16
+Querying (emulator-5558) 16
+Querying (emulator-5560) 16
+Querying (emulator-5556) 16
+Querying (emulator-5554) 17
+Querying (emulator-5562) 17
+Querying (emulator-5558) 17
+Querying (emulator-5560) 17
+Querying (emulator-5556) 17
+Querying (emulator-5554) 18
+Querying (emulator-5562) 18
+Querying (emulator-5558) 18
+Querying (emulator-5560) 18
+Querying (emulator-5556) 18
+Querying (emulator-5554) 19
+Querying (emulator-5562) 19
+Querying (emulator-5558) 19
+Querying (emulator-5560) 19
+Querying (emulator-5556) 19
+Querying (emulator-5562) 20
+Querying (emulator-5554) 20
+Querying (emulator-5558) 20
+Querying (emulator-5560) 20
+Querying (emulator-5556) 20
+Querying (emulator-5562) 21
+Querying (emulator-5554) 21
+Querying (emulator-5558) 21
+Querying (emulator-5560) 21
+Querying (emulator-5556) 21
+Querying (emulator-5562) 22
+Querying (emulator-5554) 22
+Querying (emulator-5558) 22
+Querying (emulator-5560) 22
+Querying (emulator-5556) 22
+Querying (emulator-5562) 23
+Querying (emulator-5554) 23
+Querying (emulator-5558) 23
+Querying (emulator-5560) 23
+Querying (emulator-5556) 23
+Querying (emulator-5562) 24
+Querying (emulator-5554) 24
+Querying (emulator-5558) 24
+Querying (emulator-5560) 24
+Querying (emulator-5556) 24
+Verifying total ordering (note: each "key" in the output below may not be the exact key if there was a failure. It is just the nth message that the grader is verifying.)
+Total ordering score: 2
+Verifying FIFO ordering
+FIFO ordering score: 2
+Ordering score: 4
+Uninstalling from emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Uninstalling from emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+Success
+Installing on emulator-5558
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5560
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5556
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5554
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Installing on emulator-5562
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+	pkg: /data/local/tmp/app-debug.apk
+Success
+Starting on emulator-5558
+Starting on emulator-5560
+Starting on emulator-5556
+Starting on emulator-5554
+Starting on emulator-5562
+Entering messages
+Force-stopping on emulator-5558
+Waiting for 10 seconds to stabilize...
+Retrieving messages
+Querying (emulator-5558) 0
+Querying (emulator-5560) 0
+Querying (emulator-5556) 0
+ Querying (emulator-5554) 0
+Querying (emulator-5562) 0
+Querying (emulator-5556) 1
+Querying (emulator-5562) 1
+Querying (emulator-5554) 1
+Querying (emulator-5560) 1
+Querying (emulator-5558) 1
+Querying (emulator-5560) 2
+Querying (emulator-5558) 2
+Querying (emulator-5554) 2
+Querying (emulator-5556) 2
+Querying (emulator-5562) 2
+Querying (emulator-5560) 3
+Querying (emulator-5556) 3
+Querying (emulator-5554) 3
+Querying (emulator-5558) 3
+Querying (emulator-5562) 3
+Querying (emulator-5560) 4
+Querying (emulator-5554) 4
+Querying (emulator-5562) 4
+Querying (emulator-5558) 4
+Querying (emulator-5556) 4
+Querying (emulator-5560) 5
+Querying (emulator-5554) 5
+Querying (emulator-5558) 5
+Querying (emulator-5562) 5
+Querying (emulator-5556) 5
+Querying (emulator-5560) 6
+Querying (emulator-5554) 6
+Querying (emulator-5558) 6
+Querying (emulator-5562) 6
+Querying (emulator-5556) 6
+Querying (emulator-5560) 7
+Querying (emulator-5554) 7Querying (emulator-5558) 7
+
+Querying (emulator-5562) 7
+Querying (emulator-5556) 7
+Querying (emulator-5560) 8
+Querying (emulator-5554) 8
+Querying (emulator-5558) 8
+Querying (emulator-5562) 8
+Querying (emulator-5556) 8
+Querying (emulator-5560) 9
+Querying (emulator-5554) 9
+Querying (emulator-5558) 9
+Querying (emulator-5562) 9
+Querying (emulator-5556) 9
+Querying (emulator-5560) 10
+Querying (emulator-5558) 10
+ Querying (emulator-5554) 10
+Querying (emulator-5562) 10
+Querying (emulator-5556) 10
+Querying (emulator-5560) 11
+Querying (emulator-5554) 11Querying (emulator-5558) 11
+
+Querying (emulator-5562) 11
+Querying (emulator-5556) 11
+Querying (emulator-5560) 12
+Querying (emulator-5558) 12
+Querying (emulator-5554) 12
+Querying (emulator-5562) 12
+Querying (emulator-5556) 12
+Querying (emulator-5560) 13
+Querying (emulator-5558) 13Querying (emulator-5554) 13
+
+Querying (emulator-5562) 13
+Querying (emulator-5556) 13
+Querying (emulator-5560) 14
+Querying (emulator-5558) 14
+Querying (emulator-5554) 14
+Querying (emulator-5562) 14
+Querying (emulator-5556) 14
+Querying (emulator-5560) 15
+Querying (emulator-5558) 15
+Querying (emulator-5554) 15
+Querying (emulator-5562) 15
+Querying (emulator-5560) 16
+Querying (emulator-5556) 15
+Querying (emulator-5558) 16
+Querying (emulator-5554) 16
+Querying (emulator-5562) 16
+Querying (emulator-5560) 17
+Querying (emulator-5556) 16
+Querying (emulator-5558) 17
+Querying (emulator-5554) 17
+Querying (emulator-5562) 17
+Querying (emulator-5560) 18
+Querying (emulator-5556) 17
+Querying (emulator-5558) 18
+Querying (emulator-5554) 18
+Querying (emulator-5562) 18
+Querying (emulator-5560) 19
+Querying (emulator-5556) 18
+Querying (emulator-5558) 19
+Querying (emulator-5554) 19
+Querying (emulator-5562) 19
+Querying (emulator-5560) 20
+Querying (emulator-5556) 19
+Querying (emulator-5558) 20
+Querying (emulator-5562) 20
+Querying (emulator-5554) 20
+Querying (emulator-5560) 21
+Querying (emulator-5558) 21
+Querying (emulator-5556) 20
+Querying (emulator-5554) 21
+Querying (emulator-5562) 21
+Querying (emulator-5560) 22
+Querying (emulator-5558) 22
+Querying (emulator-5556) 21
+Querying (emulator-5554) 22
+Querying (emulator-5562) 22
+Querying (emulator-5560) 23
+Querying (emulator-5558) 23
+Querying (emulator-5556) 22
+Querying (emulator-5554) 23
+Querying (emulator-5562) 23
+Querying (emulator-5560) 24
+Querying (emulator-5558) 24
+Querying (emulator-5556) 23
+Querying (emulator-5554) 24
+Querying (emulator-5562) 24
+Querying (emulator-5556) 24
+Verifying total ordering (note: each "key" in the output below may not be the exact key if there was a failure. It is just the nth message that the grader is verifying.)
+Missing a message sequence from emulator-5560, missing key: 14
+Ordering & failure handling score based on 1 run (the result can be incorrect if your implementation is centralized or has randomness in failure handling): 0
+Total score: 4

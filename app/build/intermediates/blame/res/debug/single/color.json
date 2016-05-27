@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/keshavsharma/Downloads/DS TRASH/GroupMessenger2/app/build/intermediates/res/merged/debug/color/common_signin_btn_text_dark.xml",
+        "source": "/Users/keshavsharma/Downloads/DS TRASH/GroupMessenger2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/color/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/keshavsharma/Downloads/DS TRASH/GroupMessenger2/app/build/intermediates/res/merged/debug/color/common_signin_btn_text_light.xml",
+        "source": "/Users/keshavsharma/Downloads/DS TRASH/GroupMessenger2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/color/common_signin_btn_text_light.xml"
+    }
+]
